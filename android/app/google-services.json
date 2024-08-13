@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614377257092",
+    "project_id": "dailygrocer-97d43",
+    "storage_bucket": "dailygrocer-97d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614377257092:android:743d4eca2b7518989faad1",
+        "android_client_info": {
+          "package_name": "com.example.daily_grocer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy8wbe_WgkP5xUveydOwKpEMTUp3b9F4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
